@@ -1,3 +1,11 @@
+# Not maintained fork
+
+This is a fork of the original AWeber-API-PHP-Library to fix OAuth response parsing that got suddenly broken by some change to response format on AWeber's end after many years of flawless operation.
+
+It is not expected to be maintained.
+
+----------------
+
 # This client library has been deprecated.
 ### This library will no longer be supported and does not support OAuth2. 
 ### Please visit our [PHP Examples](https://github.com/aweber/public-api-examples/tree/master/php) as a reference. 

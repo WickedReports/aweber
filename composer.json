@@ -7,6 +7,9 @@
       "aweber_api/"
     ]
   },
+  "require": {
+    "alexpts/http-message-parser": "^0.0.3"
+  },
   "require-dev": {
     "phpdocumentor/phpdocumentor": "^2.9",
     "pdepend/pdepend": "^2.2",

@@ -1,5 +1,5 @@
 {
-  "name": "leverage-php/aweber",
+  "name": "aweber/aweber",
   "description": "A fork of the official AWeber API client library.",
   "license": "GPL-2.0",
   "autoload": {
